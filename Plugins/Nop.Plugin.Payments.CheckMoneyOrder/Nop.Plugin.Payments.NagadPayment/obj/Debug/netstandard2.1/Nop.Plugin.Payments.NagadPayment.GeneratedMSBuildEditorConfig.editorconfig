@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Nop.Plugin.Payments.NagadPayment
+build_property.ProjectDir = C:\Users\Piyash\Downloads\nopCommerce_4.40.4_Source\Plugins\Nop.Plugin.Payments.NagadPayment\

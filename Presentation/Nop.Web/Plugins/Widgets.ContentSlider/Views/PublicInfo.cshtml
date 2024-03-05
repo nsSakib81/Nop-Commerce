@@ -1,0 +1,14 @@
+﻿@model Nop.Plugin.Widgets.ContentSlider.Models.PublicInfoModel
+@{
+    Layout = "";
+
+    Html.AddScriptParts(ResourceLocation.Footer, "~/Plugins/Widgets.NivoSlider/Scripts/jquery.nivo.slider.js");
+
+}
+<table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td>
+            <p><b>@T("~/Plugins/Widgets.ContentSlider/Views/_PublicInfo.SliderLine.cshtml")</b></p>
+        </td>
+    </tr>
+</table>

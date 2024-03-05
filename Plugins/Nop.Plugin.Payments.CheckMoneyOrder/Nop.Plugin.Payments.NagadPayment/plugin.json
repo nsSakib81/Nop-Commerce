@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Payment methods",
+  "FriendlyName": "Nagad Payment",
+  "SystemName": "Payments.NagadPayment",
+  "Version": "1.00",
+  "SupportedVersions": [ "4.40" ],
+  "Author": "nopCommerce team",
+  "DisplayOrder": 0,
+  "FileName": "Nop.Plugin.Payments.NagadPayment.dll",
+  "Description": "Nagad Payment system in Commerce Platform is a full-stack payment processing solution that helps you accept and make payments in BD"
+}

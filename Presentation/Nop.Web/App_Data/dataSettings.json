@@ -1,0 +1,6 @@
+﻿{
+  "DataConnectionString": "Data Source=DESKTOP-BPHHLDB\\SQLEXPRESS;Initial Catalog=nopCommerce4.40.4;Integrated Security=True;Persist Security Info=False",
+  "DataProvider": "sqlserver",
+  "SQLCommandTimeout": null,
+  "RawDataSettings": {}
+}

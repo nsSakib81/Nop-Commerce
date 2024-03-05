@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Payment methods",
+  "FriendlyName": "Bkash Payment",
+  "SystemName": "Payments.BkashPayment",
+  "Version": "1.66",
+  "SupportedVersions": [ "4.40" ],
+  "Author": "nopCommerce team",
+  "DisplayOrder": 0,
+  "FileName": "Nop.Plugin.Payments.BkashPayment.dll",
+  "Description": "This plugin allows paying with Bkash Payment System"
+}

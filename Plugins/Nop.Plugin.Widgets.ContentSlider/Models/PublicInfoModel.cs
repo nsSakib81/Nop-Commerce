@@ -1,0 +1,27 @@
+﻿using Nop.Web.Framework.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Nop.Plugin.Widgets.ContentSlider.Models
+{
+    public record PublicInfoModel: BaseNopModel
+    {
+        public string Picture1Url { get; set; }
+        public string Text1 { get; set; }
+        public string Link1 { get; set; }
+        public string AltText1 { get; set; }
+
+        public string Picture2Url { get; set; }
+        public string Text2 { get; set; }
+        public string Link2 { get; set; }
+        public string AltText2 { get; set; }
+
+        public string Picture3Url { get; set; }
+        public string Text3 { get; set; }
+        public string Link3 { get; set; }
+        public string AltText3 { get; set; }
+    }
+}

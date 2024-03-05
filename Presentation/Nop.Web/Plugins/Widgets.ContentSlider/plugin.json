@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Widgets",
+  "FriendlyName": "Content Slider",
+  "SystemName": "Widgets.ContentSlider",
+  "Version": "1.41",
+  "SupportedVersions": [ "4.40" ],
+  "Author": "nopCommerce team",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Widgets.ContentSlider.dll",
+  "Description": "This plugin allows you to change the Customize contents of main page slider"
+}
